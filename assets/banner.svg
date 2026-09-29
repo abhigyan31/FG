@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="banner-title">
+  <title id="banner-title">Final-Year Goals: MCA 2026–27, from October 2026 to an offer in June 2027</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1026"/>
+      <stop offset="0.55" stop-color="#1E1B4B"/>
+      <stop offset="1" stop-color="#134E4A"/>
+    </linearGradient>
+    <linearGradient id="road" x1="100" y1="0" x2="1110" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <radialGradient id="glow-teal">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-indigo">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1280" height="400" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="400" fill="url(#bg)"/>
+    <rect width="1280" height="400" fill="url(#grid)"/>
+    <circle cx="1110" cy="120" r="280" fill="url(#glow-teal)"/>
+    <circle cx="160" cy="430" r="300" fill="url(#glow-indigo)"/>
+  </g>
+
+  <g font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="80" y="100" font-size="22" font-weight="700" letter-spacing="5" fill="#5EEAD4">MCA · FINAL YEAR · 2026–27</text>
+    <text x="76" y="184" font-size="80" font-weight="800" fill="#FFFFFF">Final-Year Goals</text>
+    <text x="80" y="232" font-size="27" fill="#CBD5E1">Placements · projects · internship → an offer by June 2027</text>
+
+    <!-- the road: October to June -->
+    <line x1="100" y1="318" x2="1110" y2="318" stroke="url(#road)" stroke-width="6" stroke-linecap="round"/>
+    <g fill="#0B1026" stroke-width="4">
+      <circle cx="100" cy="318" r="10" stroke="#818CF8"/>
+      <circle cx="352.5" cy="318" r="10" stroke="#7298EF"/>
+      <circle cx="605" cy="318" r="10" stroke="#5FAAE0"/>
+      <circle cx="857.5" cy="318" r="10" stroke="#46C0CF"/>
+    </g>
+    <circle cx="1110" cy="318" r="17" fill="#2DD4BF"/>
+    <path d="M1102 318.5l5.5 5.5 10.5-11" fill="none" stroke="#0B1026" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <g font-size="20" font-weight="600" fill="#E2E8F0" text-anchor="middle">
+      <text x="100" y="292">Drives</text>
+      <text x="352.5" y="292">Internship</text>
+      <text x="605" y="292">Major project</text>
+      <text x="857.5" y="292">PPO</text>
+    </g>
+    <g font-size="20" fill="#94A3B8" text-anchor="middle">
+      <text x="100" y="364">Oct</text>
+      <text x="352.5" y="364">Dec</text>
+      <text x="605" y="364">Feb</text>
+      <text x="857.5" y="364">Apr</text>
+      <text x="1110" y="369" font-size="21" font-weight="700" fill="#5EEAD4">Jun · Offer</text>
+    </g>
+  </g>
+
+  <!-- graduation cap above the finish -->
+  <g transform="translate(1110 150)">
+    <path d="M-58 6v48q58 28 116 0v-48q-58 26 -116 0z" fill="#A5B4FC"/>
+    <path d="M0 -52l104 44-104 44-104-44z" fill="#E0E7FF"/>
+    <path d="M0 -52l104 44-104 44z" fill="#C7D2FE"/>
+    <path d="M0 -8l78 30v52" fill="none" stroke="#FBBF24" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="0" cy="-8" r="7" fill="#FBBF24"/>
+    <path d="M72 72h12l5 26h-22z" fill="#FBBF24"/>
+  </g>
+</svg>
