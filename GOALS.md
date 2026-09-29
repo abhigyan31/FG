@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="#-right-now"><kbd>🚨 Right now</kbd></a>&nbsp;
-  <a href="#-month-by-month"><kbd>📅 Month by month</kbd></a>&nbsp;
-  <a href="#-pick-a-track"><kbd>🧭 Tracks</kbd></a>&nbsp;
-  <a href="#-placement-readiness"><kbd>💼 Placement prep</kbd></a>&nbsp;
-  <a href="#-projects-and-portfolio"><kbd>💻 Projects</kbd></a>&nbsp;
-  <a href="#-other-paths"><kbd>🔀 Other paths</kbd></a>&nbsp;
-  <a href="#-scoreboard"><kbd>📊 Scoreboard</kbd></a>
+  <b><a href="#-right-now">🚨 Right now</a></b> &nbsp;·&nbsp;
+  <b><a href="#-month-by-month">📅 Month by month</a></b> &nbsp;·&nbsp;
+  <b><a href="#-pick-a-track">🧭 Tracks</a></b> &nbsp;·&nbsp;
+  <b><a href="#-placement-readiness">💼 Placement prep</a></b> &nbsp;·&nbsp;
+  <b><a href="#-projects-and-portfolio">💻 Projects</a></b> &nbsp;·&nbsp;
+  <b><a href="#-other-paths">🔀 Other paths</a></b> &nbsp;·&nbsp;
+  <b><a href="#-scoreboard">📊 Scoreboard</a></b>
 </p>
 
 A roadmap for the final year of a 2-year MCA: **Sem 3** (Aug–Dec 2026) and **Sem 4** (Jan–Jun 2027). The goals and a timeline chart are on the [cover page](README.md).

@@ -11,9 +11,9 @@
 <h3 align="center">My roadmap for the final year of MCA:<br>placements, projects, the internship, and an offer by June 2027.</h3>
 
 <p align="center">
-  <a href="GOALS.md"><kbd>📋 Open the full plan</kbd></a>&nbsp;
-  <a href="GOALS.md#-right-now"><kbd>🚨 Right now</kbd></a>&nbsp;
-  <a href="GOALS.md#-scoreboard"><kbd>📊 Scoreboard</kbd></a>
+  <b><a href="GOALS.md">📋 Open the full plan</a></b> &nbsp;·&nbsp;
+  <b><a href="GOALS.md#-right-now">🚨 Right now</a></b> &nbsp;·&nbsp;
+  <b><a href="GOALS.md#-scoreboard">📊 Scoreboard</a></b>
 </p>
 
 ## 🏁 The finish line
@@ -31,11 +31,12 @@ What June 2027 should look like:
 ## 📅 Year at a glance
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {"sectionBkgColor": "#6366F1", "sectionBkgColor2": "#6366F1", "altSectionBkgColor": "#2DD4BF", "taskBkgColor": "#6366F1", "taskBorderColor": "#4F46E5", "taskTextColor": "#FFFFFF", "taskTextLightColor": "#FFFFFF", "taskTextDarkColor": "#768390", "taskTextOutsideColor": "#768390", "critBkgColor": "#0F766E", "critBorderColor": "#115E59", "gridColor": "#768390", "todayLineColor": "#F43F5E", "textColor": "#768390", "titleColor": "#768390"}, "gantt": {"barHeight": 22, "barGap": 6, "leftPadding": 90, "fontSize": 12, "sectionFontSize": 13}}}%%
 gantt
     dateFormat YYYY-MM-DD
     axisFormat %b
     section Placements
-    Campus drives and online tests        :active, 2026-09-01, 2026-12-31
+    Campus drives and online tests        :2026-09-01, 2026-12-31
     Off-campus applications and referrals :2026-10-01, 2027-06-30
     section Skills
     Daily DSA and aptitude                :2026-10-01, 2027-03-31
